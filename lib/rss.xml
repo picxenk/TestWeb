@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[GCampus]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>GCampus</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 29 Nov 2024 02:45:27 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 29 Nov 2024 02:45:26 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Daily_Template]]></title><description><![CDATA[ 
+ <br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+]]></description><link>templates/daily_template.html</link><guid isPermaLink="false">Templates/Daily_Template.md</guid><pubDate>Fri, 29 Nov 2024 01:03:02 GMT</pubDate></item><item><title><![CDATA[2024-11-29]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="꿈 기록" data-href="#꿈 기록" href="/#꿈_기록" class="internal-link" target="_self" rel="noopener nofollow">꿈 기록</a>
+
+<br><a data-tooltip-position="top" aria-label="어젯밤 꿈" data-href="#어젯밤 꿈" href="/#어젯밤_꿈" class="internal-link" target="_self" rel="noopener nofollow">어젯밤 꿈</a>
+<br><a data-tooltip-position="top" aria-label="그제밤 꿈" data-href="#그제밤 꿈" href="/#그제밤_꿈" class="internal-link" target="_self" rel="noopener nofollow">그제밤 꿈</a>
+
+
+<br><a data-tooltip-position="top" aria-label="오늘 할일" data-href="#오늘 할일" href="/#오늘_할일" class="internal-link" target="_self" rel="noopener nofollow">오늘 할일</a>
+<br><a data-tooltip-position="top" aria-label="오늘의 회고" data-href="#오늘의 회고" href="/#오늘의_회고" class="internal-link" target="_self" rel="noopener nofollow">오늘의 회고</a>
+<br><br>점심 맛있게 먹기 📅 2024-11-29 (<a rel="noopener" target="_self" class="internal-link">Welcome</a>)<a class="tasks-edit" title="Edit task" href="/#"></a><a class="tasks-postpone" title="ℹ️ Due tomorrow, on 토 30일 11월 (right-click for more options)"></a><br>오후 회의하고, 프로젝트 다음 일정잡기 📅 2024-11-29 (<a rel="noopener" target="_self" class="internal-link">Welcome</a>)<a class="tasks-edit" title="Edit task" href="/#"></a><a class="tasks-postpone" title="ℹ️ Due tomorrow, on 토 30일 11월 (right-click for more options)"></a>2 tasks<br><br>점심 맛있게 먹기 📅 2024-11-29 (<a rel="noopener" target="_self" class="internal-link">Welcome</a>)<a class="tasks-edit" title="Edit task" href="/#"></a><a class="tasks-postpone" title="ℹ️ Due tomorrow, on 토 30일 11월 (right-click for more options)"></a><br>오후 회의하고, 프로젝트 다음 일정잡기 📅 2024-11-29 (<a rel="noopener" target="_self" class="internal-link">Welcome</a>)<a class="tasks-edit" title="Edit task" href="/#"></a><a class="tasks-postpone" title="ℹ️ Due tomorrow, on 토 30일 11월 (right-click for more options)"></a><br>오늘 모든 친구들이 개인 페인지 만들 수 있게 하는게 목표 (<a rel="noopener" target="_self" class="internal-link">Welcome</a>)<a class="tasks-edit" title="Edit task" href="/#"></a><br>플레이 테스트 1 (<a rel="noopener" target="_self" class="internal-link">거캠 툴킷랩</a>)<a class="tasks-edit" title="Edit task" href="/#"></a><br>플레이 테스트 2 (<a rel="noopener" target="_self" class="internal-link">거캠 툴킷랩</a>)<a class="tasks-edit" title="Edit task" href="/#"></a><br>dfdlsfldsa (<a rel="noopener" target="_self" class="internal-link">거캠 툴킷랩</a>)<a class="tasks-edit" title="Edit task" href="/#"></a><br>dfkslafj (<a rel="noopener" target="_self" class="internal-link">거캠 툴킷랩</a>)<a class="tasks-edit" title="Edit task" href="/#"></a><br> (<a rel="noopener" target="_self" class="internal-link">거캠 툴킷랩</a>)<a class="tasks-edit" title="Edit task" href="/#"></a><br><br><br><br><br>
+<br>
+<br><br>
+<br>
+]]></description><link>2024-11-29.html</link><guid isPermaLink="false">2024-11-29.md</guid><pubDate>Fri, 29 Nov 2024 02:07:17 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+ <br>여기가 홈입니다.<br><a data-href="2024-11-29" href="/2024-11-29.html" class="internal-link" target="_self" rel="noopener nofollow">2024-11-29</a> 페이지 링크입니다.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Fri, 29 Nov 2024 02:43:19 GMT</pubDate></item><item><title><![CDATA[Welcome]]></title><description><![CDATA[ 
+ <br>This is your new vault.<br>Make a note of something, <a data-href="create a link" href="/create a link" class="internal-link" target="_self" rel="noopener nofollow">create a link</a>, or try <a data-tooltip-position="top" aria-label="https://help.obsidian.md/Plugins/Importer" rel="noopener nofollow" class="external-link" href="https://help.obsidian.md/Plugins/Importer" target="_blank">the Importer</a>!<br>When you're ready, delete this note and make the vault your own.<br>
+<br>오늘 모든 친구들이 개인 페인지 만들 수 있게 하는게 목표
+<br>점심 맛있게 먹기 📅 2024-11-29 
+<br>오후 회의하고, 프로젝트 다음 일정잡기📅 2024-11-29 
+]]></description><link>welcome.html</link><guid isPermaLink="false">Welcome.md</guid><pubDate>Fri, 29 Nov 2024 02:08:02 GMT</pubDate></item><item><title><![CDATA[거캠 툴킷랩]]></title><description><![CDATA[ 
+ <br>
+<br>플레이 테스트 1
+<br>플레이 테스트 2
+<br>dfdlsfldsa
+<br>dfkslafj
+<br>
+
+
+]]></description><link>거캠-툴킷랩.html</link><guid isPermaLink="false">거캠 툴킷랩.md</guid><pubDate>Fri, 29 Nov 2024 02:05:07 GMT</pubDate></item></channel></rss>
